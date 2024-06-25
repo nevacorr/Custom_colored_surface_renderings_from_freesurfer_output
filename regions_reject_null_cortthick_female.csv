@@ -1,5 +1,4 @@
 cortthick-rh-bankssts
-cortthick-lh-caudalmiddlefrontal
 cortthick-rh-caudalmiddlefrontal
 cortthick-rh-cuneus
 cortthick-lh-entorhinal
@@ -13,14 +12,12 @@ cortthick-lh-lateraloccipital
 cortthick-rh-lateraloccipital
 cortthick-lh-lateralorbitofrontal
 cortthick-rh-lateralorbitofrontal
-cortthick-rh-lingual
 cortthick-lh-middletemporal
 cortthick-rh-middletemporal
 cortthick-lh-parsopercularis
 cortthick-lh-parsorbitalis
-cortthick-rh-parsorbitalis
+cortthick-lh-pericalcarine
 cortthick-lh-precentral
-cortthick-rh-precentral
 cortthick-rh-precuneus
 cortthick-lh-rostralmiddlefrontal
 cortthick-lh-superiorfrontal
@@ -29,6 +26,7 @@ cortthick-lh-superiortemporal
 cortthick-rh-superiortemporal
 cortthick-lh-frontalpole
 cortthick-rh-frontalpole
+cortthick-lh-temporalpole
 cortthick-rh-temporalpole
 cortthick-lh-transversetemporal
 cortthick-lh-insula
