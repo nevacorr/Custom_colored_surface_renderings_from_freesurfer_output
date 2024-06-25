@@ -1,4 +1,4 @@
-1. Prior to running any scripts, change SUBJECTS_DIR to current directory using "export SUBJECTS_DIR=$PWD
+1. Prior to running any scripts, change SUBJECTS_DIR to current directory using export SUBJECTS_DIR=$PWD
 
 2. Open makeannotfilescript_xx_xxxx and modify regions if needed
 
