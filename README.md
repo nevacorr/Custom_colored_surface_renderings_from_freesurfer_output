@@ -7,3 +7,5 @@
 4. After running the makeannotfile scripts, open Freeview and load rh.pial and lh.pial. 
 
 5. Choose "Annotation" menu and load newly created .annot file (eg rh.myparcmale.annot) for each surface
+
+5. The colors are defined by the values in the xh_female_annot.ctab or xh_male_annot.ctab files
