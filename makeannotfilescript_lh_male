@@ -1,2 +1,2 @@
 rm bert/label/lh.myparcmale.annot
-mris_label2annot --s bert --h lh --ctab lh_male_annot.ctab --a myparcmale  --l labels/lh.lateraloccipital.label --l labels/lh.cuneus.label --l labels/lh.lingual.label
+mris_label2annot --s bert --h lh --ctab lh_male_annot.ctab --a myparcmale  --l labels/lh.lateraloccipital.label 
