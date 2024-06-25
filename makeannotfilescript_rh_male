@@ -1,0 +1,2 @@
+rm bert/label/rh.myparcmale.annot
+mris_label2annot --s bert --h rh --ctab rh_male_annot.ctab --a myparcmale --l labels/rh.lateraloccipital.label 

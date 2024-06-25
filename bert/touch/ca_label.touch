@@ -1,0 +1,1 @@
+mri_cc -aseg aseg.auto_noCCseg.mgz -o aseg.auto.mgz -lta /usr/local/freesurfer/stable6_0_0/subjects/bert/mri/transforms/cc_up.lta bert

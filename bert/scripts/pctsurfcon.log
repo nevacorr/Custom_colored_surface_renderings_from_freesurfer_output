@@ -1,0 +1,18 @@
+Logfile for pctsurfcon
+Logfile for pctsurfcon
+Fri Jan 20 08:36:08 EST 2017
+Fri Jan 20 08:36:08 EST 2017
+setenv SUBJECTS_DIR /usr/local/freesurfer/stable6_0_0/subjects
+setenv SUBJECTS_DIR /usr/local/freesurfer/stable6_0_0/subjects
+cd /usr/local/freesurfer/stable6_0_0/subjects/bert/scripts
+cd /usr/local/freesurfer/stable6_0_0/subjects/bert/scripts
+/usr/local/freesurfer/stable6_0_0/bin/pctsurfcon
+/usr/local/freesurfer/stable6_0_0/bin/pctsurfcon
+$Id: FreeSurferEnv.csh,v 1.89 2016/06/09 14:54:31 zkaufman Exp $
+$Id: FreeSurferEnv.csh,v 1.89 2016/06/09 14:54:31 zkaufman Exp $
+Darwin gust.nmr.mgh.harvard.edu 11.4.2 Darwin Kernel Version 11.4.2: Thu Aug 23 16:25:48 PDT 2012; root:xnu-1699.32.7~1/RELEASE_X86_64 x86_64
+Darwin gust.nmr.mgh.harvard.edu 11.4.2 Darwin Kernel Version 11.4.2: Thu Aug 23 16:25:48 PDT 2012; root:xnu-1699.32.7~1/RELEASE_X86_64 x86_64
+FREESURFER_HOME /usr/local/freesurfer/stable6_0_0
+FREESURFER_HOME /usr/local/freesurfer/stable6_0_0
+Cleaning up
+Cleaning up

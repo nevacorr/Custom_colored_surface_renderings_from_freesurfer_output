@@ -1,0 +1,3 @@
+--l labels/lh-lingual.label
+--l labels/lh-lateraloccipital.label
+--l labels/lh-cuneus.label

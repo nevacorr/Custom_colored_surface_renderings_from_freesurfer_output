@@ -1,0 +1,13 @@
+------------------------------
+SUBJECT bert
+START_TIME Fri Jan 20 01:15:02 EST 2017
+END_TIME Fri Jan 20 08:59:23 EST 2017
+RUNTIME_HOURS 7.739
+USER zkaufman
+HOST gust.nmr.mgh.harvard.edu
+PROCESSOR x86_64
+OS Darwin
+UNAME Darwin gust.nmr.mgh.harvard.edu 11.4.2 Darwin Kernel Version 11.4.2: Thu Aug 23 16:25:48 PDT 2012; root:xnu-1699.32.7~1/RELEASE_X86_64 x86_64
+VERSION $Id: FreeSurferEnv.csh,v 1.89 2016/06/09 14:54:31 zkaufman Exp $
+CMDPATH /usr/local/freesurfer/stable6_0_0/bin/recon-all
+CMDARGS -s bert -parallel -all
